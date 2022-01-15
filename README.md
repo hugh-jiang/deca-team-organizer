@@ -1,9 +1,9 @@
 # deca-team-organizer
-Team organizer desktop application built for my school's DECA club (Grade 12 CS Final Project). 
+Team organizer application built for my school's DECA club (Java).
 
 ## Getting Started
-* To run the program, download and run the .jar file in the `Product` directory. 
-* Source code can be found under `/Documentation/Appendex Source Code`
+* To run the program, download and run the .jar file in the `/Product` directory. 
+* Source code can be found under `/src` or `/Documentation/Appendex Source Code`
 * Links to a user handbook and explanations of the design process, algorithms used, etc. can be found in `cover_page.html`
 
 ## Features
